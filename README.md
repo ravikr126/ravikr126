@@ -20,6 +20,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ravikr126&&show_icons=true&title_color==ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories 😊!
+### ...Show some ❤️ by starring some of the repositories 😊!
 
 </div>
