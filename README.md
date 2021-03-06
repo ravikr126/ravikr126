@@ -14,7 +14,7 @@
 - 💬 Ask me about programming and any tech related stuffs
 - 📫 How to reach me: [Twitter -@ravi14577](https://twitter.com/ravi14577)   [Linkedin - @ravikumar](https://www.linkedin.com/in/ravi-kumar-950747b4/)
 - 😄 Pronouns: He
-- ⚡ Fun fact: I spend almost 5 hr to listening songs everyday
+- ⚡ Fun fact: I spend almost time to learn new technologies everyday
 - 📫 How to reach me **ravi14577@gmail.com**
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=ravikr126&&show_icons=true&title_color==ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
