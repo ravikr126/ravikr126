@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on improveing my coding skills
 - 🌱 I’m currently learning Web development
 - 👯 I’m looking to collaborate on Opensource Projects
-- 🤔 I’m looking for help with coding problems
+- 🤔 I’m looking for help with coding problems and frontend web development
 - 💬 Ask me about programming and any tech related stuffs
 - 📫 How to reach me: [Twitter -@ravi14577](https://twitter.com/ravi14577)   [Linkedin - @ravikumar](https://www.linkedin.com/in/ravi-kumar-950747b4/)
 - 😄 Pronouns: He
