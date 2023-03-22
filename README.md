@@ -1,4 +1,4 @@
-<h1 align="center"> Namaste folks! <img src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="2.5%" width="2.5%"><br>I am Ravi Kumar</h1>
+<h1 align="center"> Namaste folks! <img src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="2.5%" width="2.5%" align="center"><br>I am Ravi Kumar</h1>
 <h3 align="center">Developer <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravikr126&label=Profile%20views&color=0e75b6&style=flat" alt="ravi-kumar" /> </p>
@@ -22,18 +22,17 @@
 
 
 ## Languages and Tools 
-
-
-	<p align="left" height="100">
-<a height="200" href="https://github.com/DenverCoder1/readme-typing-svg"><img margin-top="500px" src="https://readme-typing-svg.herokuapp.com?lines=Eat;Code;Sleep;Repeat&width=75&height=45"></a></p>
-<img align='right' src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-<p align="center" margin="0" >
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,vim,aws,c,cpp,py,html,css,tailwind,bootstrap,js,express,firebase,linux,materialui,mongodb,mysql,nodejs,vscode" />
-  </a>
+<p align="left" height="100">
+	<a height="200" href="https://github.com/DenverCoder1/readme-typing-svg"><img margin-top="500px" src="https://readme-typing-svg.herokuapp.com?lines=Eat;Code;Sleep;Repeat&width=75&height=45"></a></p>
+	<img align='right' src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+	<p align="center" margin="0" >
+  	<p align="center">
+  	<a href="https://skillicons.dev">
+    	<img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,vim,aws,c,cpp,py,html,css,tailwind,bootstrap,js,express,firebase,linux,materialui,mongodb,mysql,nodejs,vscode" />
+  	</a>
 </p>
-
+</p>
+</p>
 </p>
 
 
