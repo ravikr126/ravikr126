@@ -23,7 +23,7 @@
 
 ## Languages and Tools 
 
-<p>
+
 	<p align="left" height="100">
 <a height="200" href="https://github.com/DenverCoder1/readme-typing-svg"><img margin-top="500px" src="https://readme-typing-svg.herokuapp.com?lines=Eat;Code;Sleep;Repeat&width=75&height=45"></a></p>
 <img align='right' src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
@@ -33,7 +33,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,vim,aws,c,cpp,py,html,css,tailwind,bootstrap,js,express,firebase,linux,materialui,mongodb,mysql,nodejs,vscode" />
   </a>
 </p>
-</p>
+
 </p>
 
 
@@ -45,8 +45,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
 
-## Just a Snake 🐍 Eating away my Contributions...😭
-<!-- ![snake gif](https://raw.githubusercontent.com/Thelalitagarwal/Thelalitagarwal/output/github-contribution-grid-snake.svg) -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
