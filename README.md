@@ -22,18 +22,12 @@
 
 
 ## Languages and Tools 
-<p align="left" height="50">
-	<a height="100" href="https://github.com/DenverCoder1/readme-typing-svg"><img margin-top="500px" src="https://readme-typing-svg.herokuapp.com?lines=Eat;Code;Sleep;Repeat&width=75&height=45"></a></p>
-	<img align='right' src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-	<p align="center" margin="0" >
-  	<p align="center">
-  	<a href="https://skillicons.dev">
-    	<img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,vim,aws,c,cpp,py,html,css,tailwind,bootstrap,js,express,firebase,linux,materialui,mongodb,mysql,nodejs,vscode" />
+ <p align="center">
+ <a href="https://skillicons.dev">
+ <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,vim,aws,c,cpp,py,html,css,tailwind,bootstrap,js,express,firebase,linux,materialui,mongodb,mysql,nodejs,vscode" />
   	</a>
-</p>
-</p>
-</p>
-</p>
+	</p>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
