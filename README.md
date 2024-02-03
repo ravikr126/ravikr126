@@ -1,5 +1,5 @@
 <h1 align="center"> Namaste folks! 
-	<img src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="2.5%" width="2.5%" align="center"><br>I am Ravi Kumar</h1>
+	
 <h3 align="center">Developer <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravikr126&label=Profile%20views&color=0e75b6&style=flat" alt="ravi-kumar" /> </p>
