@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on improveing my coding skills
-- 🌱 I’m currently learning Web development and React
+- 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on Opensource Projects
 - 🤔 I’m looking for help with coding problems and frontend web development
 - 💬 Ask me about programming and any tech related stuffs
